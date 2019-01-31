@@ -1,0 +1,27 @@
+{
+  "name": "matter-matters",
+  "version": "1.0.0",
+  "description": "Experiments with matter-js",
+  "main": "index.js",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arcia125/matter-matters.git"
+  },
+  "keywords": [
+    "matter",
+    "physics"
+  ],
+  "author": "Kevin Hallett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arcia125/matter-matters/issues"
+  },
+  "homepage": "https://github.com/Arcia125/matter-matters#readme"
+}
